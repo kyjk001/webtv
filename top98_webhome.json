@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.giteeusercontent.com/markfuckyou/webtv-test/raw/master/top98_webhome.jar;sha256;efe994fe9a1745aa2c835aa8178b99340fa2a9a49d04bbe79b0e30125ec2d489",
+  "spider": "https://raw.githubusercontent.com/kyjk001/webtv/main/top98_webhome.jar;sha256;efe994fe9a1745aa2c835aa8178b99340fa2a9a49d04bbe79b0e30125ec2d489",
   "lives": [
     {
       "name": "直播",
