@@ -1,5 +1,5 @@
 {
-    "spider":  "https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar;sha256;c0cc6ef0db58e8242631453f8e80c4e1e146bc8e19eb04ad6551f6e3d11c4ee0",
+    "spider":  "https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar;sha256;2856b7005db14709b2a739a6788d036a048534a05c68480380f5da39223241e4",
     "sites":  [
                   {
                       "key":  "av123",
