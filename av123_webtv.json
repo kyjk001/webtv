@@ -1,13 +1,13 @@
 {
-    "spider":  "https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar;sha256;d25255b0b69114ee469ddb9b8dcac8b19c2a41a4d09a27a98e7ca869a0fb0786",
+    "spider":  "https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar;sha256;3eb553a225a3a58f7db73ee1b9b3240a469e6ff6ff9a6eab30b3ea01e15a6f0d",
     "sites":  [
                   {
                       "key":  "av123",
                       "name":  "123AV",
                       "type":  3,
                       "api":  "csp_Av123",
-                      "searchable":  0,
-                      "quickSearch":  0,
+                      "searchable":  1,
+                      "quickSearch":  1,
                       "filterable":  0,
                       "ext":  "https://123av-2026034.xxavx11.com"
                   }
