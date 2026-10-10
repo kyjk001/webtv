@@ -1,25 +1,25 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=320fbba09a1ef8d28951711b69a00a64a8de10f69c96e90500236f881d5a8cfa;sha256;320fbba09a1ef8d28951711b69a00a64a8de10f69c96e90500236f881d5a8cfa",
-  "sites": [
-    {
-      "key": "av123",
-      "name": "123AV",
-      "type": 3,
-      "api": "csp_Av123",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://123av-2026034.xxavx11.com"
-    },
-    {
-      "key": "baidu58_okita_v2",
-      "name": "AVhome",
-      "type": 3,
-      "api": "csp_Baidu58",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://baidu58.store"
-    }
-  ]
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=69f989433d2cc2c6db3a445b3a8c8e9bcb6f5cba5f6d7d4e2947076dd5fac844;sha256;69f989433d2cc2c6db3a445b3a8c8e9bcb6f5cba5f6d7d4e2947076dd5fac844",
+    "sites":  [
+                  {
+                      "key":  "av123",
+                      "name":  "123AV",
+                      "type":  3,
+                      "api":  "csp_Av123",
+                      "searchable":  1,
+                      "quickSearch":  1,
+                      "filterable":  0,
+                      "ext":  "https://123av-2026034.xxavx11.com"
+                  },
+                  {
+                      "key":  "baidu58_okita_v2",
+                      "name":  "AVhome",
+                      "type":  3,
+                      "api":  "csp_Baidu58",
+                      "searchable":  0,
+                      "quickSearch":  0,
+                      "filterable":  0,
+                      "ext":  "https://baidu58.store"
+                  }
+              ]
 }
