@@ -1,5 +1,5 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=69f989433d2cc2c6db3a445b3a8c8e9bcb6f5cba5f6d7d4e2947076dd5fac844;sha256;69f989433d2cc2c6db3a445b3a8c8e9bcb6f5cba5f6d7d4e2947076dd5fac844",
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=0b34860a090d2a212253ba73baf1a0694b42cce56a7467fa4bfb70e0b5d66219;sha256;0b34860a090d2a212253ba73baf1a0694b42cce56a7467fa4bfb70e0b5d66219",
     "sites":  [
                   {
                       "key":  "av123",
@@ -9,11 +9,11 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "filterable":  0,
-                      "ext":  "https://123av-2026034.xxavx11.com",
                       "style":  {
                                     "type":  "rect",
                                     "ratio":  1.777778
-                                }
+                                },
+                      "ext":  "https://123av-2026034.xxavx11.com"
                   },
                   {
                       "key":  "baidu58_okita_v2",
@@ -23,11 +23,11 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "filterable":  0,
-                      "ext":  "https://baidu58.store",
                       "style":  {
                                     "type":  "rect",
                                     "ratio":  1.777778
-                                }
+                                },
+                      "ext":  "https://baidu58.store"
                   }
               ]
 }
