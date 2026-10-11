@@ -9,7 +9,11 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "filterable":  0,
-                      "ext":  "https://123av-2026034.xxavx11.com"
+                      "ext":  "https://123av-2026034.xxavx11.com",
+                      "style":  {
+                                    "type":  "rect",
+                                    "ratio":  1.777778
+                                }
                   },
                   {
                       "key":  "baidu58_okita_v2",
@@ -19,7 +23,11 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "filterable":  0,
-                      "ext":  "https://baidu58.store"
+                      "ext":  "https://baidu58.store",
+                      "style":  {
+                                    "type":  "rect",
+                                    "ratio":  1.777778
+                                }
                   }
               ]
 }
