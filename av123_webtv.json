@@ -1,5 +1,5 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=33e6e1eea790d499dd17cf5419a2dcd2c06846af3adcc9229fd9f9fb872238c7;sha256;33e6e1eea790d499dd17cf5419a2dcd2c06846af3adcc9229fd9f9fb872238c7",
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=69e59c212801dad70698e4e8734bec2ff769e41e978e63fdb006595c0ccb83a8;sha256;69e59c212801dad70698e4e8734bec2ff769e41e978e63fdb006595c0ccb83a8",
     "sites":  [
                   {
                       "key":  "av123",
