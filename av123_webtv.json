@@ -1,5 +1,5 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=cf0d0d00bfe2f2e8f25becabb9a496db7d2c77d207d1140207091572b612bbeb;sha256;cf0d0d00bfe2f2e8f25becabb9a496db7d2c77d207d1140207091572b612bbeb",
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=a0169e258ca4a170ba2ba275b2349ed03570c19852f75a7988269f139562e4d0;sha256;a0169e258ca4a170ba2ba275b2349ed03570c19852f75a7988269f139562e4d0",
     "sites":  [
                   {
                       "key":  "av123",
@@ -42,6 +42,20 @@
                                     "ratio":  1.777778
                                 },
                       "ext":  "https://javdb580.com"
+                  },
+                  {
+                      "key":  "aicck_search",
+                      "name":  "AICCK（仅搜索）",
+                      "type":  3,
+                      "api":  "csp_Aicck",
+                      "searchable":  1,
+                      "quickSearch":  1,
+                      "filterable":  0,
+                      "style":  {
+                                    "type":  "rect",
+                                    "ratio":  1.777778
+                                },
+                      "ext":  "https://444.aicck.cc"
                   }
               ]
 }
