@@ -1,11 +1,11 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=61f88bab1418ff1dd165ac79846f463138193a0cd6f847e775a1ef68d1b0c85c;sha256;61f88bab1418ff1dd165ac79846f463138193a0cd6f847e775a1ef68d1b0c85c",
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=6d1c6dfc40ab3aeaa025ec43cd1b6d9841c94bb583badaff3d299f2ef8f568d1;sha256;6d1c6dfc40ab3aeaa025ec43cd1b6d9841c94bb583badaff3d299f2ef8f568d1",
     "sites":  [
                   {
                       "key":  "av123",
                       "name":  "123AV",
                       "type":  3,
-                      "api":  "csp_Av123",
+                      "api":  "csp_Missav",
                       "searchable":  1,
                       "quickSearch":  1,
                       "filterable":  0,
@@ -13,7 +13,7 @@
                                     "type":  "rect",
                                     "ratio":  1.777778
                                 },
-                      "ext":  "https://jable-2026112.ms9817.xyz"
+                      "ext":  "https://missav-2026112.ms9817.xyz"
                   },
                   {
                       "key":  "baidu58_okita_v2",
