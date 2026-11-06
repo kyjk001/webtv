@@ -1,0 +1,61 @@
+{
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=61f88bab1418ff1dd165ac79846f463138193a0cd6f847e775a1ef68d1b0c85c;sha256;61f88bab1418ff1dd165ac79846f463138193a0cd6f847e775a1ef68d1b0c85c",
+    "sites":  [
+                  {
+                      "key":  "av123",
+                      "name":  "123AV",
+                      "type":  3,
+                      "api":  "csp_Av123",
+                      "searchable":  1,
+                      "quickSearch":  1,
+                      "filterable":  0,
+                      "style":  {
+                                    "type":  "rect",
+                                    "ratio":  1.777778
+                                },
+                      "ext":  "https://123av-2026105.rbjpsp.com"
+                  },
+                  {
+                      "key":  "baidu58_okita_v2",
+                      "name":  "AVhome",
+                      "type":  3,
+                      "api":  "csp_Baidu58",
+                      "searchable":  0,
+                      "quickSearch":  0,
+                      "filterable":  0,
+                      "style":  {
+                                    "type":  "rect",
+                                    "ratio":  1.777778
+                                },
+                      "ext":  "https://baidu58.store"
+                  },
+                  {
+                      "key":  "javdb",
+                      "name":  "javdb",
+                      "type":  3,
+                      "api":  "csp_Javdb",
+                      "searchable":  0,
+                      "quickSearch":  0,
+                      "filterable":  0,
+                      "style":  {
+                                    "type":  "rect",
+                                    "ratio":  1.777778
+                                },
+                      "ext":  "https://javdb580.com"
+                  },
+                  {
+                      "key":  "aicck_search",
+                      "name":  "AICCK",
+                      "type":  3,
+                      "api":  "csp_Aicck",
+                      "searchable":  1,
+                      "quickSearch":  1,
+                      "filterable":  0,
+                      "style":  {
+                                    "type":  "rect",
+                                    "ratio":  1.777778
+                                },
+                      "ext":  "https://444.9915hsck.cc"
+                  }
+              ]
+}
