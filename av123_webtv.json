@@ -1,5 +1,5 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=6d1c6dfc40ab3aeaa025ec43cd1b6d9841c94bb583badaff3d299f2ef8f568d1;sha256;6d1c6dfc40ab3aeaa025ec43cd1b6d9841c94bb583badaff3d299f2ef8f568d1",
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=39bb170d913db13ffa96cd79e56d4f4f8f60784f723d51e1f1aa0467527b5676;sha256;39bb170d913db13ffa96cd79e56d4f4f8f60784f723d51e1f1aa0467527b5676",
     "sites":  [
                   {
                       "key":  "av123",
@@ -20,8 +20,8 @@
                       "name":  "AVhome",
                       "type":  3,
                       "api":  "csp_Baidu58",
-                      "searchable":  0,
-                      "quickSearch":  0,
+                      "searchable":  1,
+                      "quickSearch":  1,
                       "filterable":  0,
                       "style":  {
                                     "type":  "rect",
@@ -55,7 +55,7 @@
                                     "type":  "rect",
                                     "ratio":  1.777778
                                 },
-                      "ext":  "https://444.9915hsck.cc"
+                      "ext":  "https://111.9916hsck.cc"
                   }
               ]
 }
