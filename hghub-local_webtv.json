@@ -1,5 +1,5 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/hghub-local-android.jar?v=3e1ae2b342a7dfb76cb023de303c9559eb5c4f95ccc5ea9a5c1fbf6386b8d097;sha256;3e1ae2b342a7dfb76cb023de303c9559eb5c4f95ccc5ea9a5c1fbf6386b8d097",
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/hghub-local-android.jar?v=6a5b0821b1d7b741d11a14e2d41d76873f1c203fafc9f44c800ed3138531e0ee;sha256;6a5b0821b1d7b741d11a14e2d41d76873f1c203fafc9f44c800ed3138531e0ee",
     "sites":  [
                   {
                       "key":  "hghub_local_test",
@@ -9,10 +9,6 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "filterable":  0,
-                      "style":  {
-                                    "type":  "rect",
-                                    "ratio":  1.777778
-                                },
                       "ext":  "https://huangguoai.com"
                   }
               ]
