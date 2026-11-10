@@ -1,11 +1,11 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/hghub-local-android.jar?v=6a5b0821b1d7b741d11a14e2d41d76873f1c203fafc9f44c800ed3138531e0ee;sha256;6a5b0821b1d7b741d11a14e2d41d76873f1c203fafc9f44c800ed3138531e0ee",
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/hghub-local-android.jar?v=b756256a06b2fa626fc02ccfb643e2b6997afc62db62f41ad6bfac68a059d315;sha256;b756256a06b2fa626fc02ccfb643e2b6997afc62db62f41ad6bfac68a059d315",
     "sites":  [
                   {
-                      "key":  "hghub_local_test",
-                      "name":  "HGhub 本地协议测试",
+                      "key":  "HGhub",
+                      "name":  "HGhub",
                       "type":  3,
-                      "api":  "csp_HghubLocal",
+                      "api":  "csp_Hghub",
                       "searchable":  1,
                       "quickSearch":  1,
                       "filterable":  0,
