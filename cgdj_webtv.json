@@ -1,0 +1,19 @@
+{
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/cgdj-android.jar?v=cafe05cf86ac33d987d494ed9bea96a77fa8aa769fc9cde3af06815255ef70e9;sha256;cafe05cf86ac33d987d494ed9bea96a77fa8aa769fc9cde3af06815255ef70e9",
+    "sites":  [
+                  {
+                      "key":  "cgdj",
+                      "name":  "橙果短剧",
+                      "type":  3,
+                      "api":  "csp_Cgdj",
+                      "searchable":  1,
+                      "quickSearch":  1,
+                      "filterable":  0,
+                      "style":  {
+                                    "type":  "rect",
+                                    "ratio":  1.777778
+                                },
+                      "ext":  "https://11.qvpcijxhz.cc"
+                  }
+              ]
+}
