@@ -1,5 +1,5 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/cgdj-android.jar?v=cafe05cf86ac33d987d494ed9bea96a77fa8aa769fc9cde3af06815255ef70e9;sha256;cafe05cf86ac33d987d494ed9bea96a77fa8aa769fc9cde3af06815255ef70e9",
+    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/cgdj-android.jar?v=aefc1d668cd3b0da464113c2496a21b0bea6cd715ca9aa5da3105f28606ba91f;sha256;aefc1d668cd3b0da464113c2496a21b0bea6cd715ca9aa5da3105f28606ba91f",
     "sites":  [
                   {
                       "key":  "cgdj",
