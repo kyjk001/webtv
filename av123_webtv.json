@@ -13,7 +13,7 @@
                                     "type":  "rect",
                                     "ratio":  1.777778
                                 },
-                      "ext":  "https://missav-2026113.28g906.xyz"
+                      "ext":  "https://missav-2026114.28g227.xyz"
                   },
                   {
                       "key":  "baidu58_okita_v2",
@@ -45,7 +45,7 @@
                   },
                   {
                       "key":  "aicck_search",
-                      "name":  "AICCK",
+                      "name":  "hsck",
                       "type":  3,
                       "api":  "csp_Aicck",
                       "searchable":  1,
@@ -55,7 +55,7 @@
                                     "type":  "rect",
                                     "ratio":  1.777778
                                 },
-                      "ext":  "https://222.aixck.cc"
+                      "ext":  "https://444.9929hsck.cc"
                   }
               ]
 }
