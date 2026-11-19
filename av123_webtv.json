@@ -1,61 +1,61 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar?v=39bb170d913db13ffa96cd79e56d4f4f8f60784f723d51e1f1aa0467527b5676;sha256;39bb170d913db13ffa96cd79e56d4f4f8f60784f723d51e1f1aa0467527b5676",
-    "sites":  [
-                  {
-                      "key":  "av123",
-                      "name":  "123AV",
-                      "type":  3,
-                      "api":  "csp_Missav",
-                      "searchable":  1,
-                      "quickSearch":  1,
-                      "filterable":  0,
-                      "style":  {
-                                    "type":  "rect",
-                                    "ratio":  1.777778
-                                },
-                      "ext":  "https://missav-2026114.28g227.xyz"
-                  },
-                  {
-                      "key":  "baidu58_okita_v2",
-                      "name":  "AVhome",
-                      "type":  3,
-                      "api":  "csp_Baidu58",
-                      "searchable":  1,
-                      "quickSearch":  1,
-                      "filterable":  0,
-                      "style":  {
-                                    "type":  "rect",
-                                    "ratio":  1.777778
-                                },
-                      "ext":  "https://baidu58.store"
-                  },
-                  {
-                      "key":  "javdb",
-                      "name":  "javdb",
-                      "type":  3,
-                      "api":  "csp_Javdb",
-                      "searchable":  0,
-                      "quickSearch":  0,
-                      "filterable":  0,
-                      "style":  {
-                                    "type":  "rect",
-                                    "ratio":  1.777778
-                                },
-                      "ext":  "https://javdb580.com"
-                  },
-                  {
-                      "key":  "aicck_search",
-                      "name":  "hsck",
-                      "type":  3,
-                      "api":  "csp_Aicck",
-                      "searchable":  1,
-                      "quickSearch":  1,
-                      "filterable":  0,
-                      "style":  {
-                                    "type":  "rect",
-                                    "ratio":  1.777778
-                                },
-                      "ext":  "https://444.9929hsck.cc"
-                  }
-              ]
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/av123-android.jar;sha256;5fc68695ca10e8bee18081aa202159fff9fad5f0d29037608434ad38411c73f3",
+  "sites": [
+    {
+      "key": "av123",
+      "name": "123AV",
+      "type": 3,
+      "api": "csp_Missav",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.777778
+      },
+      "ext": "https://missav-2026114.28g227.xyz"
+    },
+    {
+      "key": "baidu58_okita_v2",
+      "name": "AVhome",
+      "type": 3,
+      "api": "csp_Baidu58",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.777778
+      },
+      "ext": "https://baidu58.store"
+    },
+    {
+      "key": "javdb",
+      "name": "javdb",
+      "type": 3,
+      "api": "csp_Javdb",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.777778
+      },
+      "ext": "https://javdb580.com"
+    },
+    {
+      "key": "aicck_search",
+      "name": "hsck",
+      "type": 3,
+      "api": "csp_Aicck",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.777778
+      },
+      "ext": "https://444.9929hsck.cc"
+    }
+  ]
 }

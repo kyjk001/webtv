@@ -1,25 +1,25 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/hghub-local-android.jar?v=b756256a06b2fa626fc02ccfb643e2b6997afc62db62f41ad6bfac68a059d315;sha256;b756256a06b2fa626fc02ccfb643e2b6997afc62db62f41ad6bfac68a059d315",
-    "sites":  [
-                  {
-                      "key":  "HGhub",
-                      "name":  "黄果主站",
-                      "type":  3,
-                      "api":  "csp_Hghub",
-                      "searchable":  1,
-                      "quickSearch":  1,
-                      "filterable":  0,
-                      "ext":  "https://huangguoai.com"
-                  },
-                  {
-                      "key":  "HGhub-by1",
-                      "name":  "备用站点1",
-                      "type":  3,
-                      "api":  "csp_Hghub",
-                      "searchable":  1,
-                      "quickSearch":  1,
-                      "filterable":  0,
-                      "ext":  "https://ujj3.ipycpknh.cc"
-                  }
-              ]
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/hghub-local-android.jar?v=b756256a06b2fa626fc02ccfb643e2b6997afc62db62f41ad6bfac68a059d315;sha256;b756256a06b2fa626fc02ccfb643e2b6997afc62db62f41ad6bfac68a059d315",
+  "sites": [
+    {
+      "key": "HGhub",
+      "name": "黄果主站",
+      "type": 3,
+      "api": "csp_Hghub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://huangguoai.com"
+    },
+    {
+      "key": "HGhub-by1",
+      "name": "备用站点1",
+      "type": 3,
+      "api": "csp_Hghub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ujj3.ipycpknh.cc"
+    }
+  ]
 }

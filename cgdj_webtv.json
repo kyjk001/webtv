@@ -1,15 +1,15 @@
 {
-    "spider":  "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/cgdj-android.jar?v=aefc1d668cd3b0da464113c2496a21b0bea6cd715ca9aa5da3105f28606ba91f;sha256;aefc1d668cd3b0da464113c2496a21b0bea6cd715ca9aa5da3105f28606ba91f",
-    "sites":  [
-                  {
-                      "key":  "cgdj",
-                      "name":  "橙果短剧",
-                      "type":  3,
-                      "api":  "csp_Cgdj",
-                      "searchable":  1,
-                      "quickSearch":  1,
-                      "filterable":  0,
-                      "ext":  "https://11.qvpcijxhz.cc"
-                  }
-              ]
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/cgdj-android.jar?v=aefc1d668cd3b0da464113c2496a21b0bea6cd715ca9aa5da3105f28606ba91f;sha256;aefc1d668cd3b0da464113c2496a21b0bea6cd715ca9aa5da3105f28606ba91f",
+  "sites": [
+    {
+      "key": "cgdj",
+      "name": "橙果短剧",
+      "type": 3,
+      "api": "csp_Cgdj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://11.qvpcijxhz.cc"
+    }
+  ]
 }
