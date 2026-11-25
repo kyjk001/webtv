@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/hghub-local-android.jar?v=b694ba94b105daea8cf20e7d9a5312b82b5cc64f4e76d0c79411f3cd9e3938f8;sha256;b694ba94b105daea8cf20e7d9a5312b82b5cc64f4e76d0c79411f3cd9e3938f8",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/kyjk001/webtv/main/hghub-local-android.jar?v=f24710ca1b5f1ae0126c411d78e13d35573f4cbbb38b51ca57ad9d2ce6e66b4e;sha256;f24710ca1b5f1ae0126c411d78e13d35573f4cbbb38b51ca57ad9d2ce6e66b4e",
   "sites": [
     {
       "key": "HGhub",
